@@ -1,6 +1,6 @@
 @font-face {
   font-family: ShaftFont;
-  src: url("./assets/font/helvetica-now-text-regular.otf") format("opentype");
+  src: url("./helvetica-now-text-regular.otf") format("opentype");
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 }
 
 .body-modal {
-  background: url("./assets/shaft/shaft-16.jpg") no-repeat center center fixed;
+  background: url("./shaft-16.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -50,7 +50,7 @@ a {
   background-color: #cccccc;
   background-size: 100%;
   background-position: center center;
-  background: url("./assets/shaft/shaft-13.jpg");
+  background: url("./shaft-13.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
